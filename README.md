@@ -10,7 +10,7 @@ This template provides a setup to get React running on Vite and Tauri. Tailwind 
 - Install `Microsoft Visual Studio C++ Build Tools` from [here](https://visualstudio.microsoft.com/visual-cpp-build-tools/). Select `C++ build tools` and `Windows 10 SDK` in the installer.
 - Download and run the `Evergreen Bootstrapper` from [here](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section).
 - Install `Rust` with `rustup` from [here](https://www.rust-lang.org/tools/install).
-- Install `Node.js` from [here](https://nodejs.org/en/download/).
+- Install `Node.js` from [here](https://nodejs.org/en/download/). 
 - Install `pnpm` from [here](https://pnpm.io/installation). (Optional)
 
 #### For Linux(Debian/Ubuntu):
